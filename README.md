@@ -1,21 +1,32 @@
 # Memory Game Project
 
+memory game is a game of luck!.
+
 ## Table of Contents
 
-* [Instructions](#instructions)
+* [Game Instructions](#instructions)
 * [Contributing](#contributing)
+* [Build With](#buildWith)
+* [Information](#information)
 
-## Instructions
+## Game Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+* **Launch** the [memory game]() _website_.
+* Match all pair cards as fast as you can.
+* Enjoy...
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+For details, check out [CONTRIBUTING.md](#CONTRIBUTING.md).
+This is a complete developed _website_.many improvement and `bugfixes` were comtributed by [slack](https://slack.com).I encourage you to contributions.
 
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
-for the websites[click here](https://samansome.github.io/fend-memory-game/).
+##Build With
+
+`font-awesome css html javascript bootstrap jquery...`to name few.
+
+##Information
+
+* The **stars** decreases with number of moves.
+* The total **time** and the star(s) display after the game ends.
+
+**Enjoy**.and **Goodluck**
